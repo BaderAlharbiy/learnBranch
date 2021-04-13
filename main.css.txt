@@ -2,5 +2,9 @@
 <head>
 Welecom to my file
 </head>
-
+<body>
+body { 
+	fonrt-size: 20px;
+}
+</body>  
 </html>
